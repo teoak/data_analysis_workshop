@@ -11,4 +11,5 @@ Lead Merchants Database is created to work with the reporting and analysis softw
 In this workshop, the 2019 sales database will be analysed; 2020 databases of Lead Merchants will follow.
 
 Lead Merchants Database by Ismail Teoman Akyuz is licensed under CC BY-NC-SA 4.0.
+
 http://www.instantfp.co.uk/data-analysis-reporting-visualisation/
