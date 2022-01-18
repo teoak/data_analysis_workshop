@@ -10,6 +10,6 @@ In this workshop, the 2019 sales database of Lead Merchants will be analysed; 20
 Lead Merchants is a global online retailer that sells a selection of products around 160 countries. 
 Their sales database, a set of 5 tables, consists 2 million lines of sales data realised in 2019.
 
-Lead Merchants Database by Ismail Teoman Akyuz is licensed under CC BY-NC-SA 4.0.
+Lead Merchants Database by Ismail Teoman Akyuz is licensed under Creative Commons, CC BY-NC-SA 4.0.
 
 http://www.instantfp.co.uk/data-analysis-reporting-visualisation/
