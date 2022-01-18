@@ -11,5 +11,6 @@ Lead Merchants is a global online retailer that sells a selection of products ar
 Their sales database, a set of 5 tables, consists 2 million lines of sales data realised in 2019.
 
 Lead Merchants Database by Ismail Teoman Akyuz is licensed under Creative Commons, CC BY-NC-SA 4.0.
+https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1
 
 http://www.instantfp.co.uk/data-analysis-reporting-visualisation/
