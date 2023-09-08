@@ -1,14 +1,14 @@
 # data_analysis_workshop
 
-There are many tools available for data analysis and presentation, but a few of them stand out as they lay the ground for the industry standards. 
+Many tools are available for data analysis and presentation, but a few stand out as they lay the ground for industry standards. 
 Instant Finance Partner's Data Analysis Workshop works with SQL, Excel and Power BI to demonstrate their power in action. 
-Workshop starts with a basic sales database and apply the primary features of all 3 tools to gain insights from data and present their results. 
+The workshop starts with a basic sales database and applies the primary features of all 3 tools to gain insights from data and present their results. 
 
 Lead Merchants Database is created to work with the reporting and analysis software. 
-In this workshop, the 2019 sales database of Lead Merchants will be analysed; 2020 databases will follow.
+In this workshop, the 2019 sales database of Lead Merchants is analysed; the 2020 database follows.
 
-Lead Merchants is a global online retailer that sells a selection of products around 160 countries. 
-Their sales database, a set of 5 tables, consists 2 million lines of sales data realised in 2019.
+Lead Merchants is a global online retailer that sells products in around 160 countries. 
+Their sales database, a set of 5 tables, consists of 2 million lines of sales data realised in 2019.
 
 Lead Merchants Database by Ismail Teoman Akyuz is licensed under Creative Commons, CC BY-NC-SA 4.0.
 https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1
