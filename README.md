@@ -1,10 +1,10 @@
 # data_analysis_workshop
 
 Many tools are available for data analysis and presentation, but a few stand out as they lay the ground for industry standards. 
-Instant Finance Partner's Data Analysis Workshop works with SQL, Excel and Power BI to demonstrate their power in action. 
+Instant Finance Partners' Data Analysis Workshop works with SQL, Excel and Power BI to demonstrate their power in action. 
 The workshop starts with a basic sales database and applies the primary features of all 3 tools to gain insights from data and present their results. 
 
-Lead Merchants Database is created to work with the reporting and analysis software. 
+The Lead Merchants Database was created to work with the reporting and analysis software. 
 In this workshop, the 2019 sales database of Lead Merchants is analysed; the 2020 database follows.
 
 Lead Merchants is a global online retailer that sells products in around 160 countries. 
